@@ -1,4 +1,5 @@
 "hello world"
 
-2.times do
-  puts "hi"
+1 + "1"
+
+hello_world
